@@ -5,4 +5,4 @@ it will filter the completed and resolved issues and show only the current issue
 
 ## Screenshots
 
-![screenshot](./screenshot.png)
+![screenshot](./screenshot2.png)
