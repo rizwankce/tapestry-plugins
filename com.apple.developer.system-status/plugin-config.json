@@ -1,0 +1,5 @@
+{
+  "id": "com.apple.developer.system-status",
+  "display_name": "Apple Developer System Status",
+  "check_interval": 300
+}
