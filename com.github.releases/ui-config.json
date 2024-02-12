@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    {
+      "name": "owner",
+      "type": "string",
+      "prompt": "Repository Owner",
+      "placeholder": "apple"
+    },
+    {
+      "name": "repo",
+      "type": "string",
+      "prompt": "Repository Name",
+      "placeholder": "swift-collections"
+    }
+  ]
+}

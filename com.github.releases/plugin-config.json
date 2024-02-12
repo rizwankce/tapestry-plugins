@@ -1,0 +1,5 @@
+{
+  "id": "com.github.releases",
+  "display_name": "Github Releases",
+  "check_interval": 3600
+}
