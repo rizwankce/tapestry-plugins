@@ -1,0 +1,5 @@
+{
+  "id": "com.hackernews",
+  "display_name": "Hacker News",
+  "check_interval": 300
+}

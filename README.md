@@ -13,4 +13,5 @@ So far, the following plugins are available:
 | Name                                                                      | Description                                                  |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | [com.apple.developer.system-status](./com.apple.developer.system-status/) | Shows the system status for apple developer services if any. |
-| [com.github.releases](./com.github.releases//)                            | Shows the github repo release details.                       |
+| [com.github.releases](./com.github.releases/)                             | Shows the github repo release details.                       |
+| [com.hackernews](./com.hackernews/)                                       | Shows the top stories from hacker news.                      |
